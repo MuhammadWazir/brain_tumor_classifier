@@ -1,5 +1,5 @@
-Brain Tumor Classifier - ReadME
-Project Overview
+# Brain Tumor Classifier - ReadME
+## Project Overview
 This project involves building a brain tumor classification model using deep learning.
 The model has been trained to detect brain tumors based on medical images. This ReadMe outlines
 the steps involved in training, saving, and utilizing the model, as well as details about additional
